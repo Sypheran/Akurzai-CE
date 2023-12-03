@@ -1,0 +1,9 @@
+Thank you for using Akurzai, Or Rune Injector. Please Do the following:
+have python.
+after your done downloading python please run akurzai.py.
+its open source so you can take a look for yourself!
+
+
+
+
+
